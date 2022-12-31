@@ -1,1 +1,1 @@
-Play a simple **Snake Game** by clicking the following link https://fh-fahad.github.io/SnakeGame/
+Play a simple **Snake Game** by clicking the following <a href="https://fh-fahad.github.io/SnakeGame/" target="_blank">**link**</a>
